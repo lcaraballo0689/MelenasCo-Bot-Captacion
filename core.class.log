@@ -1,0 +1,312 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA956CEE75CF069A319',
+    participant: undefined
+  },
+  messageTimestamp: 1740070510,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACC43094461C0CF8393',
+    participant: undefined
+  },
+  messageTimestamp: 1740070698,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Me llamo Luis y quiero vender mi cabello',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Me llamo Luis y quiero vender mi cabello',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEE95A86F9D1F9C0938',
+    participant: undefined
+  },
+  messageTimestamp: 1740071069,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Claro es negro de 90 cm liso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Claro es negro de 90 cm liso',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7361E0F02F56BA610B',
+    participant: undefined
+  },
+  messageTimestamp: 1740071095,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Es virgen totalmente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Es virgen totalmente',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACBFB2681C1A830FDA8',
+    participant: undefined
+  },
+  messageTimestamp: 1740071134,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Puedes agendar por mi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Puedes agendar por mi',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD31C94AA41AF44CABF',
+    participant: undefined
+  },
+  messageTimestamp: 1740071165,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mañana a las 6 pm',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Mañana a las 6 pm',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB03290A438CEBDA4F8',
+    participant: undefined
+  },
+  messageTimestamp: 1740071184,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Luis Caraballo 3196233749',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Luis Caraballo 3196233749',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152092535@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB5543885DB0764E8AE',
+    participant: undefined
+  },
+  messageTimestamp: 1740071208,
+  pushName: 'Adris',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '573152092535'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1643a69-bd2a-41a1-8b01-bc457cf60352',
+  keyword: 'key_b5f7ec04-32c8-42bd-aa7a-b2ee8734017e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f4bf461c7d1f715e07defcbe8dcfc76'
+}
